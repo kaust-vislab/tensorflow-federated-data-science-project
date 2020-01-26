@@ -1,0 +1,18 @@
+name: null
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - hvplot=0.5
+  - ipython-sql=0.3
+  - matplotlib=3.1
+  - nodejs=13.0
+  - pandas=0.25
+  - pip=19.3
+  - pip:
+    - -r file:requirements.txt
+  - python=3.7
+  - jupyterlab=1.2
+  - jupyterlab-git=0.9
