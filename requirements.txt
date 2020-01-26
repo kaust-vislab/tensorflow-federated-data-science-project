@@ -1,1 +1,2 @@
 jupyterlab_sql==0.3.*
+tensorflow-federated==0.11.*

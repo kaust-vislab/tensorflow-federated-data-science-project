@@ -16,3 +16,4 @@ dependencies:
   - python=3.7
   - jupyterlab=1.2
   - jupyterlab-git=0.9
+  - tensorflow=2.0
