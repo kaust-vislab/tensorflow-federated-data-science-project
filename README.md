@@ -1,6 +1,6 @@
-# python-data-science-project
+# tensorFlow-federated-data-science-project
 
-Repository containing scaffolding for a Python 3-based data science project. 
+Repository containing scaffolding for a Python 3-based data science project based on the TensorFlow Federated ecosystem. 
 
 ## Creating a new project from this template
 
