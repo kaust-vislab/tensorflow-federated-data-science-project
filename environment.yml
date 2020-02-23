@@ -11,10 +11,9 @@ dependencies:
   - nest-asyncio=1.2
   - nodejs=13.0
   - pandas=1.0
-  - pip=19.3
+  - pip=20.0
   - pip:
     - -r file:requirements.txt
   - python=3.7
   - jupyterlab=1.2
   - jupyterlab-git=0.9
-  - tensorflow=2.0
